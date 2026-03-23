@@ -1,1 +1,3 @@
 # nusewky
+
+script (hello world)
